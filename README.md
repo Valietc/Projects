@@ -1,1 +1,1 @@
-# Projects
+Educational projects
